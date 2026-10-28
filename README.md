@@ -10,3 +10,4 @@ Tutorial no 6 output :- <img width="663" height="435" alt="image" src="https://g
 Tutorial no 7 output:- <img width="578" height="255" alt="image" src="https://github.com/user-attachments/assets/e72b3fe7-507e-49de-a7e6-b22bbd3f4378" />
 Tutorial no 8 output:- <img width="630" height="210" alt="image" src="https://github.com/user-attachments/assets/54d34969-fe06-421e-b63f-501b4b4f9f25" />
 Tutorial no 9 output :- <img width="347" height="272" alt="image" src="https://github.com/user-attachments/assets/192551ab-0ecc-45fe-b2fa-082b948a09bd" />
+Tutorial no 10 output :- <img width="448" height="255" alt="image" src="https://github.com/user-attachments/assets/0d0a535c-ba8e-426d-9371-9a37a76cab16" />
